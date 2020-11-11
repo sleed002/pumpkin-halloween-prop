@@ -7,6 +7,8 @@
 
 ## Making of the prop:
 
+https://www.youtube.com/watch?v=QJF5GyZ7yIk&feature=youtu.be
+
 <a href="https://ibb.co/DK4fB02"><img src="https://i.ibb.co/nkrMXxJ/IMG-2455.jpg" alt="IMG-2455" border="0" /></a>
 
 <a href="https://ibb.co/k9sc8Wh"><img src="https://i.ibb.co/MGxNV3R/IMG-2458.jpg" alt="IMG-2458" border="0" /></a>
