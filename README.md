@@ -5,8 +5,7 @@
 [![Video of Pumpkin Prop fun](https://i.ibb.co/TMn3yN4/IMG-4320.jpg)](https://www.youtube.com/watch?v=bm7-y_7Qpb4&feature=youtu.be)
 
 
-## Making of the prop:
-
+## Making of the prop: (click link to watch video)
 https://www.youtube.com/watch?v=QJF5GyZ7yIk&feature=youtu.be
 
 Cut out the eye pieces and replace with ping pong eyeballs on a tooth pick axis:
@@ -27,7 +26,7 @@ Paint prop and base with glow paint:
 
 <a href="https://ibb.co/JtBMXnF"><img src="https://i.ibb.co/qjyPbBF/IMG-2683.jpg" alt="IMG-2683" border="0" /></a>
 
-Final Product - click image
+## Final Product Video - click image
 [![Video of Pumpkin Prop scary](https://i.ibb.co/Lhq0j7G/IMG-2699.jpg)](https://www.youtube.com/watch?v=tZTJhLa_R-A&feature=youtu.be)
 
 
