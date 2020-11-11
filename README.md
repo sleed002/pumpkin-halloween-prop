@@ -1,4 +1,5 @@
 # Motion Sensor Pumpkin Halloween Prop - lights up, buzzes and rolls its eye when you get too close!
+Arduino project with flickering led light display which changes to red and buzzer which buzzes when someone is in the proximity. Eye moves with servo motor
 
 ## Videos of the pumpkin prop in action: (click images to watch videos)
 [![Video of Pumpkin Prop scary](https://i.ibb.co/7WfGZJL/Image-from-i-OS-1.jpg)](https://www.youtube.com/watch?v=4DdH7YWoKtk)
