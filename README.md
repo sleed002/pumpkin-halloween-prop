@@ -1,4 +1,4 @@
 # pumpkin-halloween-prop
 
-video:
-![Full Video of Pumpkin Prop](https://ibb.co/4TqjXZ3)]https://streamable.com/br90mq
+# # Video of the prop in action:
+![Full Video of Pumpkin Prop](https://i.ibb.co/7WfGZJL/Image-from-i-OS-1.jpg)]https://streamable.com/br90mq
