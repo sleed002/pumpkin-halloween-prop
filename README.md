@@ -27,9 +27,8 @@ Paint prop and base with glow paint:
 
 <a href="https://ibb.co/JtBMXnF"><img src="https://i.ibb.co/qjyPbBF/IMG-2683.jpg" alt="IMG-2683" border="0" /></a>
 
-Final
-https://www.youtube.com/watch?v=tZTJhLa_R-A&feature=youtu.be
+Final Product - click image
+[![Video of Pumpkin Prop scary](https://i.ibb.co/Lhq0j7G/IMG-2699.jpg)](https://www.youtube.com/watch?v=tZTJhLa_R-A&feature=youtu.be)
 
-<a href="https://ibb.co/WpdH8JT"><img src="https://i.ibb.co/Lhq0j7G/IMG-2699.jpg" alt="IMG-2699" border="0" /></a>
 
 
